@@ -1,0 +1,14 @@
+body{
+	background: rgb(36,203,212);
+}
+
+.page{
+	color: #fff
+}
+
+.page >li {
+	width: 200px;
+	border:10px solid #666
+	display: inline-block;
+	margin: 0 10 10;
+}
